@@ -1,0 +1,15 @@
+{
+  "T_param": 1.0,
+  "alpha": 2.0,
+  "d_tau": 0.001,
+  "num_steps": 2000,
+  "L": 20.0,
+  "N": 1024,
+  "imaginary_time": true,
+  "snapshot_interval": 200,
+  "output_dir": "results_T1_alpha2",
+  "x0": -5.0,
+  "sigma0": 1.0,
+  "p0": 0.0,
+  "m": 1.0
+}
